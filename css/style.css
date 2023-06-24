@@ -140,10 +140,10 @@ body {
     height: 700px;
   }
   .imagen-quehacemos {
-    width: 100% !important;
+    width: 80% !important;
   }
   .container-textos {
-    width: 100% !important;
+    width: 80% !important;
     text-align: justify;
   }
 }
